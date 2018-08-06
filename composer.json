@@ -1,0 +1,12 @@
+{
+    "name": "paulmcloughlin/phpkatas",
+    "require-dev": {
+        "phpunit/phpunit": "^7.3"
+    },
+    "authors": [
+        {
+            "name": "Paul Mcloughlin",
+            "email": "cloggy45@googlemail.com"
+        }
+    ]
+}
